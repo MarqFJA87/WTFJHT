@@ -24,7 +24,7 @@ todayInOneSentence: 'The Supreme Court accidentally posted its draft decision to
 
 poll/ **Trump is leading in 5 of the 7 battleground states most likely to determine the outcome of the election**. Trump and Biden are tied in Pennsylvania, Biden leads Trump by less than a point in Wisconsin, and Trump leads Biden by 3 points in Michigan, 4 points in North Carolina, and 5 points in Nevada, Arizona, and Georgia. Pennsylvania, Wisconsin, and Michigan fall within a normal-sized polling error of 3.5 points. ([Washington Post](https://www.washingtonpost.com/elections/interactive/2024/presidential-polling-averages/))
 
-poll/ **68% of voters report that Trump’s convicted on 34 felony charges will make no difference in their vote this November**. 10% said Trump’s conviction made it more likely they’d support him, while 19% said they were now less likely to support him. ([New York Times](https://www.nytimes.com/2024/06/26/us/politics/trump-poll-hush-money-conviction.html))
+poll/ **68% of voters report that Trump’s conviction on 34 felony charges will make no difference in their vote this November**. 10% said Trump’s conviction made it more likely they’d support him, while 19% said they were now less likely to support him. ([New York Times](https://www.nytimes.com/2024/06/26/us/politics/trump-poll-hush-money-conviction.html))
 
 ---
 
